@@ -1,0 +1,15 @@
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.exe
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.deps.json
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.runtimeconfig.json
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.runtimeconfig.dev.json
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.dll
+C:\Users\Dale\git\DriverReport\DriverReport\bin\Debug\netcoreapp3.1\DriverReport.pdb
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.csprojAssemblyReference.cache
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.AssemblyInfoInputs.cache
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.AssemblyInfo.cs
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.csproj.CoreCompileInputs.cache
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.dll
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.pdb
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.genruntimeconfig.cache
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.OpenFileDialogForm.resources
+C:\Users\Dale\git\DriverReport\DriverReport\obj\Debug\netcoreapp3.1\DriverReport.csproj.GenerateResource.cache
