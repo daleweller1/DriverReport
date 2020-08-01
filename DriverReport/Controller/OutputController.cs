@@ -47,7 +47,7 @@ namespace DriverReport.Controller
                     TimeSpan tripLength = trip.EndTime - trip.StartTime;
                     double tripMph = trip.MilesDriven / tripLength.TotalHours;
 
-                    if (tripMph > 5 && tripMph < 100)
+                    if (tripMph >= 5 && tripMph <= 100)
                     {
                         totalMilesDriven += trip.MilesDriven;
                         totalHoursDriven += tripLength.TotalHours;
