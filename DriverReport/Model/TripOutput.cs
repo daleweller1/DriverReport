@@ -6,6 +6,10 @@
         public int MilesDriven { get; set; }
         public int MilesPerHour { get; set; }
 
+        public TripOutput()
+        {
+        }
+
         public TripOutput(string driverName, int milesDriven, int milesPerHour)
         {
             DriverName = driverName;

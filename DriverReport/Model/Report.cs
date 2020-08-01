@@ -7,6 +7,10 @@ namespace DriverReport.Model
         public List<Driver> Drivers { get; set; }
         public List<Trip> Trips { get; set; }
 
+        public Report()
+        {
+        }
+
         public Report(List<Driver> drivers, List<Trip> trips)
         {
             Drivers = drivers;

@@ -8,6 +8,9 @@ namespace DriverReport.Model
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
         public double MilesDriven { get; set; }
+        public Trip()
+        {
+        }
 
         public Trip(Driver driver, DateTime startTime, DateTime endTime, double milesDriven)
         {
@@ -16,5 +19,6 @@ namespace DriverReport.Model
             EndTime = endTime;
             MilesDriven = milesDriven;
         }
+
     }
 }

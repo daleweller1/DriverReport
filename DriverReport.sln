@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverReport", "DriverReport\DriverReport.csproj", "{78119632-C907-46C5-AE75-A7096814AD25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverReport", "DriverReport\DriverReport.csproj", "{78119632-C907-46C5-AE75-A7096814AD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverReport.Test", "DriverReport.Tests\DriverReport.Test.csproj", "{9216EADA-DDDE-4E4E-AEB5-E8AC66CF6310}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{78119632-C907-46C5-AE75-A7096814AD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78119632-C907-46C5-AE75-A7096814AD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78119632-C907-46C5-AE75-A7096814AD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9216EADA-DDDE-4E4E-AEB5-E8AC66CF6310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9216EADA-DDDE-4E4E-AEB5-E8AC66CF6310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9216EADA-DDDE-4E4E-AEB5-E8AC66CF6310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9216EADA-DDDE-4E4E-AEB5-E8AC66CF6310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

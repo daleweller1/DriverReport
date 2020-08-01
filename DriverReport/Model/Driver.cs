@@ -4,6 +4,10 @@
     {
         public string Name { get; set; }
 
+        public Driver()
+        {
+        }
+
         public Driver(string name)
         {
             Name = name;
