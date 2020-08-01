@@ -33,7 +33,8 @@ namespace DriverReport.View
                 Size = new Size(300, 300),
                 Location = new Point(15, 40),
                 Multiline = true,
-                ScrollBars = ScrollBars.Vertical
+                ScrollBars = ScrollBars.Vertical,
+                ReadOnly = true
             };
             ClientSize = new Size(330, 360);
             Controls.Add(selectFileButton);
